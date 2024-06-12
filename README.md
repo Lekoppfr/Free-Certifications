@@ -1,4 +1,4 @@
-# Free Certifications
+# **Free Certifications**
 
 [![GitHub Repo stars](https://img.shields.io/github/stars/cloudcommunity/Free-Certifications?style=social)](https://github.com/cloudcommunity/Free-Certifications)
 [![Twitter Follow](https://img.shields.io/twitter/follow/CloudStudyNet?style=social)](https://twitter.com/CloudStudyNet)
@@ -9,7 +9,7 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 
 🎉 Brought to you by the [Cloud Study Network](https://www.meetup.com/Cloud-Study-Network/) - a global tech community that shares knowledge, goodies and good vibes! 🎉
 
-## Table of Contents
+# Table of Contents
 
 - [General](#general)
 - [Security](#security)
@@ -18,7 +18,7 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 - [Marketing](#marketing)
 - [Miscellaneous](#miscellaneous)
 
-## General
+# General
 
 | Technology | Provider | Description | Link | Expiration |
 | --- | --- | --- | --- | --- |
@@ -152,7 +152,7 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 
 <p align="center"><a href="#table-of-contents">(back to top)</a></p>
 
-## Security
+# Security
 
 | Provider | Description | Link | Expiration |
 | --- | --- | --- | --- |
@@ -173,7 +173,7 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 
 <p align="center"><a href="#table-of-contents">(back to top)</a></p>
 
-## Databases
+# Databases
 
 | Provider | Description | Link | Expiration |
 | --- | --- | --- | --- |
@@ -188,7 +188,7 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 
 <p align="center"><a href="#table-of-contents">(back to top)</a></p>
 
-## Project Management
+# Project Management
 
 | Provider | Description | Link | Expiration |
 | --- | --- | --- | --- |
@@ -203,7 +203,7 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 
 <p align="center"><a href="#table-of-contents">(back to top)</a></p>
 
-## Marketing
+# Marketing
 
 | Provider | Description | Link | Expiration |
 | --- | --- | --- | --- |
@@ -218,7 +218,7 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 
 <p align="center"><a href="#table-of-contents">(back to top)</a></p>
 
-## Miscellaneous
+# Miscellaneous
 
 | Provider | Description | Link | Expiration |
 | --- | --- | --- | --- |
